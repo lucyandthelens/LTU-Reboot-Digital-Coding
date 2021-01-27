@@ -2,22 +2,21 @@ CPD - Continuing Professional Development
 
 
 Date of CPD activity
-11/01/2021
+26/01/2021
 
 CPD activity
-Introduction to Web Development
+Positioning And Layout
 
 
 What have I learnt?
 
-I learnt about the different positions in web development, like what a front end developer is and does....
-end developer and a back end developer does. I also learnt how to create a repository which is a different way of saying project.
+Today we learnt about Html which gives our data structure and also how to add css tags to make the text a different colour and also how to highlight text with a strong tag.
+we found out how to open and close the tags. Stand alone elements are the only ones that require no closing tag. 
+you should indent your code to provide the code with a more coherent structure. headings are also important. we learnt about how to add images, ordered and unordered lists to our code and create headings in our code.
 
 How did I use this in practice?
-We created a repository by logging in to git hub web and creating our own read me page which is similar to an about me on the web.
-we added a description. Then we used a fork to create a seperate repository and cloned it to the desktop version. Then we copied this into our visual studio code editor
 
-
+In this lesson we added strong tags and element tags into our code.
 
 What did I find hard?
-So far i found the lesson relatively straight forward to follow.
+I found this lesson coherent and easy to follow.
