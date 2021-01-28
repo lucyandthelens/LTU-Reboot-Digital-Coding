@@ -23,8 +23,11 @@ p {
   }
   
   li { 
-    color: purple;
-  }{background color: #cf48c3; }
+    color: purple;}
+
+    {Background color: #09e01f;}
+
+  strong {color: #ebb931;}
   
 
 /* Your code goes above here */
