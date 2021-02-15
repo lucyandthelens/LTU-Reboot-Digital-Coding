@@ -8,9 +8,9 @@ var Tip_Amount = One_Percent * Tip_Percent;
 
 var Total = Bill_Total + Tip_Amount;
 
-alert(Total);
+alert(Total.toFixed(2));
 
-var Message = "Your bill cost £" + Bill_Total + ", You tipped " + Tip_Percent + "% Which equals £" + Tip_Amount + ", Bringing your total bill to £" +(Total);
+var Message = "Your bill cost £" + Bill_Total + ", You tipped " + Tip_Percent + "% Which equals £" + Tip_Amount + ", Bringing your total bill to £" +(Total.toFixed(2));
 
 console.log (Message)
 
