@@ -23,5 +23,5 @@ totalPrice = totalPrice + ( arr[index].price - discount ) * arr[index].quantity 
 
                 
        
-       console.log( '£' + discountFood( shopppingcart));
+       console.log( '£' + discountFood( shoppingcart));
     
