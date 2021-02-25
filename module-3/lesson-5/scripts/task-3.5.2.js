@@ -10,8 +10,7 @@ function discountFood( arr) {
 
 totalPrice = totalPrice + ( arr[index].price - discount ) * arr[index].quantity ;
 
-              
-        } else {
+                } else {
 
                     totalPrice = totalPrice + ( arr[index].price * arr[index].quantity) ;
 
