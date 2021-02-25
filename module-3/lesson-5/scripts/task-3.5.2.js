@@ -8,7 +8,7 @@ function discountFood( arr) {
 
             let discount = (arr[index].price * 20 ) /100;
 
-totalPrice = totalPrice + ( arr[index].price - discount ) * arr[index].quantity ;
+totalPrice = totalPrice + ( arr[index].price - discount ) * arr[index].quantity) ;
 
                 } else {
 
